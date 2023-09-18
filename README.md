@@ -1,2 +1,5 @@
 REDA
-Miguel Miranda
+Miguel Miranda 
+Luis Soráca
+Luis Osorio
+Miguel Hernandez
