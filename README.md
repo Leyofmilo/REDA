@@ -1,2 +1,0 @@
-REDA
-Miguel Miranda
